@@ -10,7 +10,7 @@ El resultado fue un proyecto entregado dentro del plazo establecido y estamos or
 
 Quiero agradecer a mis compañeros de equipo por su dedicación y contribución al proyecto:
 
-Imad del Founti (github.com/Imadefc)
-Enrique Ghijs (github.com/Bees7nees)
-Daniel Tibamoza (github.com/Dtibamoza96)
-Emilio Cazalla (github.com/EMILIOFC1996)
+Imad del Founti (github.com/Imadefc) </br>
+Enrique Ghijs (github.com/Bees7nees) </br>
+Daniel Tibamoza (github.com/Dtibamoza96) </br>
+Emilio Cazalla (github.com/EMILIOFC1996) </br>
