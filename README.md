@@ -1,14 +1,14 @@
 # Nintendo-Clone
 
-Proyecto realizado como evaluación del Bootcamp Full Stack Developer de Develhope.
+Project carried out as an evaluation of the Develhope Full Stack Developer Bootcamp.
 
-Mi rol principal fue liderar el desarrollo del navbar, utilizando HTML, CSS con diseño adaptable (responsive) y JavaScript para agregar funcionalidades interactivas como dropdowns y animaciones.
+My main role was leading the development of the navbar, using HTML, CSS with responsive design and JavaScript to add interactive functionalities such as dropdowns and animations.
 
-Optamos por Trello y Github para mantenernos organizados, lo que facilitó la colaboración y el seguimiento del progreso del proyecto. Tuvimos un plazo de entrega de un mes y medio, durante el cual enfrentamos diversos desafíos, desde la implementación de funcionalidades complejas hasta la coordinación del equipo y la gestión del tiempo. Superamos estos desafíos con un enfoque colaborativo y resolutivo, aprovechando nuestras habilidades individuales y trabajando en estrecha colaboración para alcanzar nuestros objetivos.
+We opted for Trello and Github to stay organized, which made it easy to collaborate and track project progress. We had a delivery time of a month and a half, during which we faced various challenges, from implementing complex functionalities to team coordination and time management. We overcome these challenges with a collaborative and purposeful approach, leveraging our individual skills and working closely to achieve our goals.
 
-El resultado fue un proyecto entregado dentro del plazo establecido y estamos orgullosos del trabajo realizado y de la colaboración que llevó al éxito del proyecto.
+The result was a project delivered within the established deadline and we are proud of the work carried out and the collaboration that led to the success of the project.
 
-Quiero agradecer a mis compañeros de equipo por su dedicación y contribución al proyecto:
+I want to thank my teammates for their dedication and contribution to the project:
 
 Imad del Founti (github.com/Imadefc) </br>
 Enrique Ghijs (github.com/Bees7nees) </br>
