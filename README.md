@@ -12,7 +12,7 @@ The result was a project delivered within the established deadline and we are pr
   CSS </br>
   HTML </br>
   
-# How to iniciate the project:
+# How to initiate the project:
 
 1) Download the Files: 
    Download the game source code from the GitHub repository or clone it using Git.
