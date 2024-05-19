@@ -18,7 +18,7 @@ The result was a project delivered within the established deadline and we are pr
    Download the game source code from the GitHub repository or clone it using Git.
 
 2) Open the HTML File:
-  Once downloaded, Open the index.html file in your preferred web browser.
+  Once downloaded, Open the mintendo.html file in your preferred web browser.
 
 # Collaborators:
 
